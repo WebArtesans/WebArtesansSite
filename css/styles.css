@@ -1399,7 +1399,7 @@ progress {
     --bs-gutter-y: 3rem;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 1400px) {
   .col-xl {
     flex: 1 0 0%;
   }
@@ -1568,7 +1568,7 @@ progress {
     --bs-gutter-y: 3rem;
   }
 }
-@media (min-width: 1400px) {
+@media (min-width: 700px) {
   .col-xxl {
     flex: 1 0 0%;
   }
