@@ -3633,7 +3633,7 @@ textarea.form-control-lg {
   }
 }
 .nav-link:hover, .nav-link:focus {
-  color: var(--bs-nav-link-hover-color);
+  color: #3C9D1C;
 }
 .nav-link.disabled {
   color: var(--bs-nav-link-disabled-color);
@@ -3775,7 +3775,7 @@ textarea.form-control-lg {
   white-space: nowrap;
 }
 .navbar-brand:hover, .navbar-brand:focus {
-  color: var(--bs-navbar-brand-hover-color);
+  color: #3c9d1c;
 }
 
 .navbar-nav {
@@ -10845,4 +10845,26 @@ html {
   background-position: center;
   background-repeat: no-repeat;
   min-height: 15rem;
+}
+
+.bg-green{
+  background-color: #EDEEC9;
+}
+
+.text-greenbold{
+  color: #3c9d1c;
+}
+
+.text-greenbold-50{
+  --bs-text-opacity: 1;
+  color: #3c9d1c;
+}
+
+.text-color-greenblack{
+  color: #3c9d1c;
+  font-weight: bolder;
+}
+
+.bg-green-nav{
+  background-color: #bfd8bd;
 }
